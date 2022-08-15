@@ -1,2 +1,6 @@
-# web-420
-Restful APIs
+<h1>WEB 420 RESTful APIs</h1>
+<h2>Contributors</h2>
+<ul>
+  <li>Prof. Robert Kumar</li>
+  <li>Amanda Groves</li>
+</ul>
